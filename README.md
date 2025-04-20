@@ -70,7 +70,3 @@ python mini_fat_system.py
 ## 📄 License
 
 This project is for **educational use only**.
-
----
-
-Let me know if you want a version in Arabic or if you'd like to package it for easier use (like as a `.exe` or `.sh` script).
