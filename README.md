@@ -1,6 +1,3 @@
-Here's a simple `README.md` file for your **MiniFATSystem** project. It explains the purpose of the system, how to use it, and includes descriptions for each command:
-
----
 
 # 🗂️ MiniFATSystem
 
